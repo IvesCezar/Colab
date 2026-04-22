@@ -1,2 +1,2 @@
-Sistema Pyton, testes e projetos 
+Sistema Pyton
 Senai Gama
